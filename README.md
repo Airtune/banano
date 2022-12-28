@@ -30,8 +30,8 @@ For more information, see [Banano.cc](https://banano.cc).
 - [Reddit](http://reddit.com/r/banano)
 - [Twitter](http://twitter.com/bananocoin)
 - [GitHub wiki](http://github.com/bananocoin/banano/wiki)
-- [TheBananoStand] (https://thebananostand.com/)
-- [BananoVault](https://vault.banano.cc)
+- [TheBananoStand](https://thebananostand.com/)
+- [BananoVault](https://vault.banano.cc) (Works but is no longer maintained.)
 - [Telegram](https://t.me/joinchat/HX-rIQ-t9Ad2xRcJjztVzg)
 - [Banano.how all links at a glance](http://banano.how/)
 
